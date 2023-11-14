@@ -62,7 +62,7 @@ def q_learning(env,
 ### State value functions of Monte Carlo method:
 ![Output 2](./FVMC.png)
 ### State value functions of Qlearning method:
-![Output 3](./Q.png)
+![Output 3](./Qlearning.png)
 
 ## RESULT:
 
